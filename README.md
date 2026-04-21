@@ -24,22 +24,10 @@ Jugadores
 Sesiones
 Asistencia
 Actividades
-🛠️ Instalación
-Clonar el repositorio:
-git clone https://github.com/TU-USUARIO/TU-REPO.git
-Entrar al proyecto:
-cd TU-REPO
-Crear entorno virtual:
-python -m venv venv
-Activar entorno:
-venv\Scripts\activate
-Instalar dependencias:
-pip install -r requirements.txt
-Migraciones:
-python manage.py migrate
-Ejecutar servidor:
-python manage.py runserver
- Autor
+Posiciones
+Inventario
+Matriculas
+Entrenamientos
 
 Desarrollado por:
 Miguel Alfonso Rodriguez Castilla
